@@ -106,7 +106,7 @@
 					</dependency>
 				</dependencies>
 			</plugin>
-			<plugin>
+			<!--<plugin>
 				<groupId>com.spotify</groupId>
 				<artifactId>dockerfile-maven-plugin</artifactId>
 				<version>1.4.4</version>
@@ -159,7 +159,7 @@
 					<shadedArtifactAttached>true</shadedArtifactAttached>
 					<shadedClassifierName>aws</shadedClassifierName>
 				</configuration>
-			</plugin>
+			</plugin>-->
 		</plugins>
 	</build>
 	<repositories>
